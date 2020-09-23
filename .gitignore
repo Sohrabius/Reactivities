@@ -1,0 +1,6 @@
+bit
+obj
+.vscode
+.DS_Store
+appsetting.json
+*.db
